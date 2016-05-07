@@ -1,3 +1,5 @@
+#!/bin/python3.5
+
 from turtle import Turtle, colormode, tracer, mainloop
 from random import randrange
 from time import clock
