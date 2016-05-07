@@ -1,3 +1,5 @@
+#!/bin/python3.5
+
 from turtle import *
 
 def main():
